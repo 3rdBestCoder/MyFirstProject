@@ -13,3 +13,5 @@ Discount: 10.0 %
 Final Price: $4.05
 
 [04/22/26]Edit added by Rafael Reyes
+## Collaboration Acknowledgement
+This was edited and reviewed by Rafa
